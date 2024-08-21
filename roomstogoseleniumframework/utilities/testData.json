@@ -1,0 +1,13 @@
+﻿{
+  "TestData": [
+    {
+      "searchTerm": "Kids bedroom"
+    },
+    {
+      "searchTerm": "Kids tables"
+    },
+    {
+      "searchTerm": "Kids sofa"
+    }
+  ]
+}

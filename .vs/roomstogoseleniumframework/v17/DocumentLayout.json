@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\roomstogoseleniumframework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C6F960-93D3-4397-83D5-E8AFAA20DAAB}|roomstogoseleniumframework\\roomstogoseleniumframework.csproj|c:\\roomstogoseleniumframework\\roomstogoseleniumframework\\tests\\navtosaleandaddtocartworkflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C6F960-93D3-4397-83D5-E8AFAA20DAAB}|roomstogoseleniumframework\\roomstogoseleniumframework.csproj|solutionrelative:roomstogoseleniumframework\\tests\\navtosaleandaddtocartworkflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C6F960-93D3-4397-83D5-E8AFAA20DAAB}|roomstogoseleniumframework\\roomstogoseleniumframework.csproj|c:\\roomstogoseleniumframework\\roomstogoseleniumframework\\utilities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C6F960-93D3-4397-83D5-E8AFAA20DAAB}|roomstogoseleniumframework\\roomstogoseleniumframework.csproj|solutionrelative:roomstogoseleniumframework\\utilities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C6F960-93D3-4397-83D5-E8AFAA20DAAB}|roomstogoseleniumframework\\roomstogoseleniumframework.csproj|c:\\roomstogoseleniumframework\\roomstogoseleniumframework\\tests\\searchandverifyresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C6F960-93D3-4397-83D5-E8AFAA20DAAB}|roomstogoseleniumframework\\roomstogoseleniumframework.csproj|solutionrelative:roomstogoseleniumframework\\tests\\searchandverifyresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C6F960-93D3-4397-83D5-E8AFAA20DAAB}|roomstogoseleniumframework\\roomstogoseleniumframework.csproj|c:\\roomstogoseleniumframework\\roomstogoseleniumframework\\tests\\roomstogologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C6F960-93D3-4397-83D5-E8AFAA20DAAB}|roomstogoseleniumframework\\roomstogoseleniumframework.csproj|solutionrelative:roomstogoseleniumframework\\tests\\roomstogologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C6F960-93D3-4397-83D5-E8AFAA20DAAB}|roomstogoseleniumframework\\roomstogoseleniumframework.csproj|c:\\roomstogoseleniumframework\\roomstogoseleniumframework\\pageobjects\\searchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C6F960-93D3-4397-83D5-E8AFAA20DAAB}|roomstogoseleniumframework\\roomstogoseleniumframework.csproj|solutionrelative:roomstogoseleniumframework\\pageobjects\\searchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C6F960-93D3-4397-83D5-E8AFAA20DAAB}|roomstogoseleniumframework\\roomstogoseleniumframework.csproj|c:\\roomstogoseleniumframework\\roomstogoseleniumframework\\tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C6F960-93D3-4397-83D5-E8AFAA20DAAB}|roomstogoseleniumframework\\roomstogoseleniumframework.csproj|solutionrelative:roomstogoseleniumframework\\tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C6F960-93D3-4397-83D5-E8AFAA20DAAB}|roomstogoseleniumframework\\roomstogoseleniumframework.csproj|c:\\roomstogoseleniumframework\\roomstogoseleniumframework\\pageobjects\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C6F960-93D3-4397-83D5-E8AFAA20DAAB}|roomstogoseleniumframework\\roomstogoseleniumframework.csproj|solutionrelative:roomstogoseleniumframework\\pageobjects\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C6F960-93D3-4397-83D5-E8AFAA20DAAB}|roomstogoseleniumframework\\roomstogoseleniumframework.csproj|c:\\roomstogoseleniumframework\\roomstogoseleniumframework\\pageobjects\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C6F960-93D3-4397-83D5-E8AFAA20DAAB}|roomstogoseleniumframework\\roomstogoseleniumframework.csproj|solutionrelative:roomstogoseleniumframework\\pageobjects\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C6F960-93D3-4397-83D5-E8AFAA20DAAB}|roomstogoseleniumframework\\roomstogoseleniumframework.csproj|c:\\roomstogoseleniumframework\\roomstogoseleniumframework\\pageobjects\\productpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C6F960-93D3-4397-83D5-E8AFAA20DAAB}|roomstogoseleniumframework\\roomstogoseleniumframework.csproj|solutionrelative:roomstogoseleniumframework\\pageobjects\\productpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C6F960-93D3-4397-83D5-E8AFAA20DAAB}|roomstogoseleniumframework\\roomstogoseleniumframework.csproj|c:\\roomstogoseleniumframework\\roomstogoseleniumframework\\tests\\windowhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C6F960-93D3-4397-83D5-E8AFAA20DAAB}|roomstogoseleniumframework\\roomstogoseleniumframework.csproj|solutionrelative:roomstogoseleniumframework\\tests\\windowhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C6F960-93D3-4397-83D5-E8AFAA20DAAB}|roomstogoseleniumframework\\roomstogoseleniumframework.csproj|c:\\roomstogoseleniumframework\\roomstogoseleniumframework\\tests\\sortwebtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C6F960-93D3-4397-83D5-E8AFAA20DAAB}|roomstogoseleniumframework\\roomstogoseleniumframework.csproj|solutionrelative:roomstogoseleniumframework\\tests\\sortwebtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C6F960-93D3-4397-83D5-E8AFAA20DAAB}|roomstogoseleniumframework\\roomstogoseleniumframework.csproj|c:\\roomstogoseleniumframework\\roomstogoseleniumframework\\utilities\\jsonreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C6F960-93D3-4397-83D5-E8AFAA20DAAB}|roomstogoseleniumframework\\roomstogoseleniumframework.csproj|solutionrelative:roomstogoseleniumframework\\utilities\\jsonreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C6F960-93D3-4397-83D5-E8AFAA20DAAB}|roomstogoseleniumframework\\roomstogoseleniumframework.csproj|c:\\roomstogoseleniumframework\\roomstogoseleniumframework\\utilities\\testdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9C6F960-93D3-4397-83D5-E8AFAA20DAAB}|roomstogoseleniumframework\\roomstogoseleniumframework.csproj|solutionrelative:roomstogoseleniumframework\\utilities\\testdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C6F960-93D3-4397-83D5-E8AFAA20DAAB}|roomstogoseleniumframework\\roomstogoseleniumframework.csproj|c:\\roomstogoseleniumframework\\roomstogoseleniumframework\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D9C6F960-93D3-4397-83D5-E8AFAA20DAAB}|roomstogoseleniumframework\\roomstogoseleniumframework.csproj|solutionrelative:roomstogoseleniumframework\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C6F960-93D3-4397-83D5-E8AFAA20DAAB}|roomstogoseleniumframework\\roomstogoseleniumframework.csproj|c:\\roomstogoseleniumframework\\roomstogoseleniumframework\\roomstogoseleniumframework.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D9C6F960-93D3-4397-83D5-E8AFAA20DAAB}|roomstogoseleniumframework\\roomstogoseleniumframework.csproj|solutionrelative:roomstogoseleniumframework\\roomstogoseleniumframework.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchAndVerifyResults.cs",
+              "DocumentMoniker": "C:\\roomstogoseleniumframework\\roomstogoseleniumframework\\tests\\SearchAndVerifyResults.cs",
+              "RelativeDocumentMoniker": "roomstogoseleniumframework\\tests\\SearchAndVerifyResults.cs",
+              "ToolTip": "C:\\roomstogoseleniumframework\\roomstogoseleniumframework\\tests\\SearchAndVerifyResults.cs",
+              "RelativeToolTip": "roomstogoseleniumframework\\tests\\SearchAndVerifyResults.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwAIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T17:44:22.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchPage.cs",
+              "DocumentMoniker": "C:\\roomstogoseleniumframework\\roomstogoseleniumframework\\pageObjects\\SearchPage.cs",
+              "RelativeDocumentMoniker": "roomstogoseleniumframework\\pageObjects\\SearchPage.cs",
+              "ToolTip": "C:\\roomstogoseleniumframework\\roomstogoseleniumframework\\pageObjects\\SearchPage.cs",
+              "RelativeToolTip": "roomstogoseleniumframework\\pageObjects\\SearchPage.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAQwGYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T17:42:36.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\roomstogoseleniumframework\\roomstogoseleniumframework\\tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "roomstogoseleniumframework\\tests\\UnitTest1.cs",
+              "ToolTip": "C:\\roomstogoseleniumframework\\roomstogoseleniumframework\\tests\\UnitTest1.cs",
+              "RelativeToolTip": "roomstogoseleniumframework\\tests\\UnitTest1.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAgwBgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T02:18:46.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\roomstogoseleniumframework\\roomstogoseleniumframework\\pageObjects\\HomePage.cs",
+              "RelativeDocumentMoniker": "roomstogoseleniumframework\\pageObjects\\HomePage.cs",
+              "ToolTip": "C:\\roomstogoseleniumframework\\roomstogoseleniumframework\\pageObjects\\HomePage.cs",
+              "RelativeToolTip": "roomstogoseleniumframework\\pageObjects\\HomePage.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAgwCEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T14:58:35.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\roomstogoseleniumframework\\roomstogoseleniumframework\\utilities\\Base.cs",
+              "RelativeDocumentMoniker": "roomstogoseleniumframework\\utilities\\Base.cs",
+              "ToolTip": "C:\\roomstogoseleniumframework\\roomstogoseleniumframework\\utilities\\Base.cs*",
+              "RelativeToolTip": "roomstogoseleniumframework\\utilities\\Base.cs*",
+              "ViewState": "AQIAACAAAAAAAAAAAADwvywAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:05:38.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavToSaleAndAddToCartWorkFlow.cs",
+              "DocumentMoniker": "C:\\roomstogoseleniumframework\\roomstogoseleniumframework\\tests\\NavToSaleAndAddToCartWorkFlow.cs",
+              "RelativeDocumentMoniker": "roomstogoseleniumframework\\tests\\NavToSaleAndAddToCartWorkFlow.cs",
+              "ToolTip": "C:\\roomstogoseleniumframework\\roomstogoseleniumframework\\tests\\NavToSaleAndAddToCartWorkFlow.cs",
+              "RelativeToolTip": "roomstogoseleniumframework\\tests\\NavToSaleAndAddToCartWorkFlow.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T15:05:21.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\roomstogoseleniumframework\\roomstogoseleniumframework\\pageObjects\\LoginPage.cs",
+              "RelativeDocumentMoniker": "roomstogoseleniumframework\\pageObjects\\LoginPage.cs",
+              "ToolTip": "C:\\roomstogoseleniumframework\\roomstogoseleniumframework\\pageObjects\\LoginPage.cs",
+              "RelativeToolTip": "roomstogoseleniumframework\\pageObjects\\LoginPage.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T02:22:39.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductPage.cs",
+              "DocumentMoniker": "C:\\roomstogoseleniumframework\\roomstogoseleniumframework\\pageObjects\\ProductPage.cs",
+              "RelativeDocumentMoniker": "roomstogoseleniumframework\\pageObjects\\ProductPage.cs",
+              "ToolTip": "C:\\roomstogoseleniumframework\\roomstogoseleniumframework\\pageObjects\\ProductPage.cs",
+              "RelativeToolTip": "roomstogoseleniumframework\\pageObjects\\ProductPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T14:58:58.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoomsToGoLogin.cs",
+              "DocumentMoniker": "C:\\roomstogoseleniumframework\\roomstogoseleniumframework\\tests\\RoomsToGoLogin.cs",
+              "RelativeDocumentMoniker": "roomstogoseleniumframework\\tests\\RoomsToGoLogin.cs",
+              "ToolTip": "C:\\roomstogoseleniumframework\\roomstogoseleniumframework\\tests\\RoomsToGoLogin.cs",
+              "RelativeToolTip": "roomstogoseleniumframework\\tests\\RoomsToGoLogin.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T03:24:25.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WindowHandlers.cs",
+              "DocumentMoniker": "C:\\roomstogoseleniumframework\\roomstogoseleniumframework\\tests\\WindowHandlers.cs",
+              "RelativeDocumentMoniker": "roomstogoseleniumframework\\tests\\WindowHandlers.cs",
+              "ToolTip": "C:\\roomstogoseleniumframework\\roomstogoseleniumframework\\tests\\WindowHandlers.cs",
+              "RelativeToolTip": "roomstogoseleniumframework\\tests\\WindowHandlers.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T01:18:13.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SortWebTables.cs",
+              "DocumentMoniker": "C:\\roomstogoseleniumframework\\roomstogoseleniumframework\\tests\\SortWebTables.cs",
+              "RelativeDocumentMoniker": "roomstogoseleniumframework\\tests\\SortWebTables.cs",
+              "ToolTip": "C:\\roomstogoseleniumframework\\roomstogoseleniumframework\\tests\\SortWebTables.cs",
+              "RelativeToolTip": "roomstogoseleniumframework\\tests\\SortWebTables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T01:17:47.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JsonReader.cs",
+              "DocumentMoniker": "C:\\roomstogoseleniumframework\\roomstogoseleniumframework\\utilities\\JsonReader.cs",
+              "RelativeDocumentMoniker": "roomstogoseleniumframework\\utilities\\JsonReader.cs",
+              "ToolTip": "C:\\roomstogoseleniumframework\\roomstogoseleniumframework\\utilities\\JsonReader.cs",
+              "RelativeToolTip": "roomstogoseleniumframework\\utilities\\JsonReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T22:09:42.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "testData.json",
+              "DocumentMoniker": "C:\\roomstogoseleniumframework\\roomstogoseleniumframework\\utilities\\testData.json",
+              "RelativeDocumentMoniker": "roomstogoseleniumframework\\utilities\\testData.json",
+              "ToolTip": "C:\\roomstogoseleniumframework\\roomstogoseleniumframework\\utilities\\testData.json",
+              "RelativeToolTip": "roomstogoseleniumframework\\utilities\\testData.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T22:02:38.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\roomstogoseleniumframework\\roomstogoseleniumframework\\App.config",
+              "RelativeDocumentMoniker": "roomstogoseleniumframework\\App.config",
+              "ToolTip": "C:\\roomstogoseleniumframework\\roomstogoseleniumframework\\App.config",
+              "RelativeToolTip": "roomstogoseleniumframework\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-20T03:26:35.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "roomstogoseleniumframework",
+              "DocumentMoniker": "C:\\roomstogoseleniumframework\\roomstogoseleniumframework\\roomstogoseleniumframework.csproj",
+              "RelativeDocumentMoniker": "roomstogoseleniumframework\\roomstogoseleniumframework.csproj",
+              "ToolTip": "C:\\roomstogoseleniumframework\\roomstogoseleniumframework\\roomstogoseleniumframework.csproj",
+              "RelativeToolTip": "roomstogoseleniumframework\\roomstogoseleniumframework.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-20T03:49:50.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
